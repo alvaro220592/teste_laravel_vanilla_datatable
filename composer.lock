@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7788797d200a448af0199627a1d719b8",
+    "content-hash": "01be2315e5b021cd39d95d475a0628f6",
     "packages": [
         {
-            "name": "alvaro220592/laravel_vanilla_datatable",
+            "name": "alvaro220592/vanilla_laratable",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/alvaro220592/laravel_vanilla_datatable_backend.git",
-                "reference": "12077172f3a0dbb353b9b4c03574be969391f7e4"
+                "url": "https://github.com/alvaro220592/vanilla_laratable_backend.git",
+                "reference": "f249b74a1c45bcb4cc115e49aefd32959c62cfb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alvaro220592/laravel_vanilla_datatable_backend/zipball/12077172f3a0dbb353b9b4c03574be969391f7e4",
-                "reference": "12077172f3a0dbb353b9b4c03574be969391f7e4",
+                "url": "https://api.github.com/repos/alvaro220592/vanilla_laratable_backend/zipball/f249b74a1c45bcb4cc115e49aefd32959c62cfb0",
+                "reference": "f249b74a1c45bcb4cc115e49aefd32959c62cfb0",
                 "shasum": ""
             },
             "require": {
@@ -27,7 +27,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Alvaro220592\\LaravelVanillaDatatable\\": "src/"
+                    "Alvaro220592\\VanillaLaratable\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -40,12 +40,12 @@
                     "email": "alvaro220592@gmail.com"
                 }
             ],
-            "description": "Recurso do backend para construir o datatable",
+            "description": "Recursos backend para construir o datatable com Vanilla JS",
             "support": {
-                "issues": "https://github.com/alvaro220592/laravel_vanilla_datatable_backend/issues",
-                "source": "https://github.com/alvaro220592/laravel_vanilla_datatable_backend/tree/master"
+                "issues": "https://github.com/alvaro220592/vanilla_laratable_backend/issues",
+                "source": "https://github.com/alvaro220592/vanilla_laratable_backend/tree/master"
             },
-            "time": "2024-08-20T01:17:34+00:00"
+            "time": "2024-08-30T14:11:13+00:00"
         },
         {
             "name": "brick/math",
@@ -8234,7 +8234,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "alvaro220592/laravel_vanilla_datatable": 20
+        "alvaro220592/vanilla_laratable": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

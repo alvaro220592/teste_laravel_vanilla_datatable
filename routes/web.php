@@ -1,6 +1,6 @@
 <?php
 
-use Alvaro220592\LaravelVanillaDatatable\DataTable;
+use Alvaro220592\VanillaLaratable\DataTable;
 use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;

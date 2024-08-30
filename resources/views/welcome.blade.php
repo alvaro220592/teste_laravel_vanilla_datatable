@@ -11,7 +11,7 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
 
-        <link rel="stylesheet" href="{{ asset('css/alvaro220592_laravel_vanilla_datatable/css/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('pacotes/vanilla_laratable/css/style.css') }}">
 
         {{-- Bootstrap icons --}}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -21,7 +21,7 @@
 
         <div id="datatable"></div>
 
-        <script src="{{ asset('js/alvaro220592_laravel_vanilla_datatable/js/script.js') }}"></script>
+        <script src="{{ asset('pacotes/vanilla_laratable/js/script.js') }}"></script>
         <script>
             // No layout principal
             document.addEventListener('DOMContentLoaded', function() {

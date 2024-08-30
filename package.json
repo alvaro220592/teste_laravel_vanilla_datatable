@@ -11,6 +11,6 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
-        "alvaro220592_laravel_vanilla_datatable": "^1.0.5"
+        "vanilla_laratable": "^1.0.0"
     }
 }

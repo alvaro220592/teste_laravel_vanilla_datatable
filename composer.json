@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "alvaro220592/laravel_vanilla_datatable": "dev-master",
+        "alvaro220592/vanilla_laratable": "dev-master",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
